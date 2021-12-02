@@ -3,9 +3,8 @@
 
 # Idées
 
-<li>
-  <ul> Ampoule : capteur mouvement, luminosité... </ul>
-  <ul> Radiateur </ul>
-  <ul> Prise électrique </ul>
-  <ul> Portail </ul>
-</li>
+* Ampoule : capteur mouvement, luminosité
+* Radiateur 
+* Prise électrique 
+* Portail 
+
